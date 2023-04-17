@@ -1,0 +1,31 @@
+(kicad_sch (version 20230121) (generator eeschema)
+
+  (uuid e0b2324c-d791-4963-9eb8-d8b2ce67520b)
+
+  (paper "A4")
+
+  (lib_symbols
+  )
+
+
+  (sheet (at 50.8 88.9) (size 25.4 25.4) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid 941e45b9-277c-4725-a44e-0da6d2070b39)
+    (property "Sheetname" "TubesAndDrivers" (at 50.8 88.1884 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "TubesAndDrivers.kicad_sch" (at 50.8 114.8846 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "NixieClockV3"
+        (path "/e0b2324c-d791-4963-9eb8-d8b2ce67520b" (page "2"))
+      )
+    )
+  )
+
+  (sheet_instances
+    (path "/" (page "1"))
+  )
+)
